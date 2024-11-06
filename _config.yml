@@ -44,7 +44,7 @@ email: myemail@gmail.com
 authors:
   kwonjaelee:
     name: Kwonjae Lee
-    bio: Site Reliability Engineer
+    bio: SRE, Observability
     external-image: false
     picture: assets/images/profile.png
 
