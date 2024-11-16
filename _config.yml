@@ -18,9 +18,9 @@ dark-theme: auto
 # and specify source (external or local).
 resume: false
 resume-external: false
-resume-url: https://im-cook.github.io/
+resume-url: https://kwonjae-2.github.io/
 
-url: https://im-cook.github.io/
+url: https://kwonjae-2.github.io/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -38,7 +38,7 @@ disqus:
 #twitter: mytwitter
 #instagram: myinstagram
 linkedin: https://www.linkedin.com/in/kwonjae-lee-213ba3157/
-github: https://github.com/im-cook
+github: https://github.com/kwonjae-2
 email: kwonjae13@gmail.com
 
 authors:
